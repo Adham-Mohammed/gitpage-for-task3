@@ -1,3 +1,9 @@
+## Name: Adham Mohammed
+
+## Sec: 1
+
+## B.N.: 9
+
 # & (uses)
 
 ### Bitwise AND 
